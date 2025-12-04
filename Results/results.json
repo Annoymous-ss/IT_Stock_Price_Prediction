@@ -1,0 +1,155 @@
+{
+    "TCS.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 119,
+            "dropout_rate": 0.10198977392087244,
+            "learning_rate": 0.009652907683921078,
+            "batch_size": 16,
+            "epochs": 159,
+            "sequence_length": 39
+        },
+        "Metrics": {
+            "mae": 79.17299038756127,
+            "rmse": 100.22193016841382,
+            "mape": 2.1905796105312723,
+            "r2": 0.9501934498992504
+        }
+    },
+    "INFY.NS": {
+        "Hyperparameters": {
+            "num_layers": 3,
+            "units": 84,
+            "dropout_rate": 0.13252579649263976,
+            "learning_rate": 0.007902619549708232,
+            "batch_size": 16,
+            "epochs": 153,
+            "sequence_length": 43
+        },
+        "Metrics": {
+            "mae": 28.105754523877277,
+            "rmse": 35.82001680884721,
+            "mape": 1.6246401939696953,
+            "r2": 0.9567299137266282
+        }
+    },
+    "HCLTECH.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 149,
+            "dropout_rate": 0.1171942605576092,
+            "learning_rate": 0.006586289317583112,
+            "batch_size": 32,
+            "epochs": 132,
+            "sequence_length": 35
+        },
+        "Metrics": {
+            "mae": 54.14870211693548,
+            "rmse": 65.38190978422286,
+            "mape": 3.234546997086397,
+            "r2": 0.7780761431618182
+        }
+    },
+    "WIPRO.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 125,
+            "dropout_rate": 0.1949593023199932,
+            "learning_rate": 0.009913463709865133,
+            "batch_size": 16,
+            "epochs": 89,
+            "sequence_length": 47
+        },
+        "Metrics": {
+            "mae": 4.9349039576997695,
+            "rmse": 6.446728205760292,
+            "mape": 1.8641818648288833,
+            "r2": 0.898062290755399
+        }
+    },
+    "LTIM.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 119,
+            "dropout_rate": 0.10198977392087244,
+            "learning_rate": 0.009652907683921078,
+            "batch_size": 16,
+            "epochs": 159,
+            "sequence_length": 39
+        },
+        "Metrics": {
+            "mae": 100.33796003753065,
+            "rmse": 131.32476819441143,
+            "mape": 1.8525135770167744,
+            "r2": 0.9482122614777455
+        }
+    },
+    "TECHM.NS": {
+        "Hyperparameters": {
+            "num_layers": 3,
+            "units": 84,
+            "dropout_rate": 0.13252579649263976,
+            "learning_rate": 0.007902619549708232,
+            "batch_size": 16,
+            "epochs": 153,
+            "sequence_length": 43
+        },
+        "Metrics": {
+            "mae": 40.364588857486616,
+            "rmse": 47.13111124966273,
+            "mape": 2.5755021855584497,
+            "r2": 0.7937951383763776
+        }
+    },
+    "PERSISTENT.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 135,
+            "dropout_rate": 0.1722852236986735,
+            "learning_rate": 0.0058185787093382735,
+            "batch_size": 16,
+            "epochs": 144,
+            "sequence_length": 41
+        },
+        "Metrics": {
+            "mae": 444.3905768143503,
+            "rmse": 490.01040557920976,
+            "mape": 7.867666417504853,
+            "r2": -0.17063130982198782
+        }
+    },
+    "COFORGE.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 103,
+            "dropout_rate": 0.15120464555512497,
+            "learning_rate": 0.0038546912594668884,
+            "batch_size": 32,
+            "epochs": 198,
+            "sequence_length": 46
+        },
+        "Metrics": {
+            "mae": 94.55607232441471,
+            "rmse": 109.80070311497484,
+            "mape": 5.599414093833028,
+            "r2": 0.6880298493278172
+        }
+    },
+    "MPHASIS.NS": {
+        "Hyperparameters": {
+            "num_layers": 2,
+            "units": 219,
+            "dropout_rate": 0.31716707405605427,
+            "learning_rate": 0.0020776842557605995,
+            "batch_size": 16,
+            "epochs": 98,
+            "sequence_length": 41
+        },
+        "Metrics": {
+            "mae": 60.54057071083471,
+            "rmse": 77.40673691048225,
+            "mape": 2.2392651922825384,
+            "r2": 0.8948491208375745
+        }
+    }
+}
